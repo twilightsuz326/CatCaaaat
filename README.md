@@ -11,7 +11,7 @@ This code relies on the following Python libraries:
 * requests
 * win11toast
 
-```pip install requests os json random win11toast```
+```pip install requests win11toast```
 
 ## Attribution
 The cat sounds used in this code were obtained from the following sources:
