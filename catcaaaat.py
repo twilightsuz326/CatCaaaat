@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 __author__ = "twilightsuz326"
 __version__ = "0.0.1"
-__date__    = "01 November 2011"
+__date__    = "08 April 2023"
 
 import requests
 import os
